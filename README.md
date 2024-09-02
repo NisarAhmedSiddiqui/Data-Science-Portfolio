@@ -101,5 +101,5 @@ I am currently pursuing an internship where I continue to learn and apply these 
 ## Contact
 
 Feel free to connect with me:
-- [LinkedIn](https://www.linkedin.com/in/nisar-ahmed-siddiqui)
+- [LinkedIn](https://www.linkedin.com/in/nisarahmedsiddiqui/)
 - [Email](mailto:nisarsidd@121.com)
